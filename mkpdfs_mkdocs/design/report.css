@@ -729,7 +729,7 @@ article .task-list-control [type="checkbox"] {
     content: none; } }
 
 @page :first {
-  background: url(cover.jpg) no-repeat center;
+  background: url(WAIOps_cover.jpg) no-repeat center;
   background-size: cover;
   margin: 0;
   counter-reset: page -1; }
